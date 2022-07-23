@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ConsoleApp4/1.0.0": {
+      "Algorithms/1.0.0": {
         "runtime": {
-          "ConsoleApp4.dll": {}
+          "Algorithms.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ConsoleApp4/1.0.0": {
+    "Algorithms/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
